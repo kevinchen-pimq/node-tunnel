@@ -1,6 +1,6 @@
 {
   "name": "railway-node-tunnel",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "private": true,
   "description": "A small HTTP-over-WebSocket tunnel for Railway",
   "main": "server.js",
